@@ -200,6 +200,9 @@
   },
   "active": "601365676f54f711",
   "lastOpenFiles": [
+    "0-INBOX/raw-data/~WRL0001.tmp",
+    "0-INBOX/raw-data/~WRD0000.tmp",
+    "0-INBOX/raw-data/~$་འཁྲུགས་པའི་ཆོ་ག.docx",
     "0-INBOX/temp/mi-khrugs-pa-cho-ga.segmented.md",
     "0-INBOX/temp/sample.txt",
     "0-INBOX/temp/mi-khrugs-pa-cho-ga.structural.md",
@@ -227,14 +230,11 @@
     "1-SOURCES/Text/25. འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ་བཞུགས་སོ.md",
     "1-SOURCES/Text/24. བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ་བཞུགས་སོ.md",
     "1-SOURCES/Text/21. མི་འཁྲུགས་མགོན་པོ་སྟག་ལུང་པ་ལ་བསྟེན་པའི་བླ་མའི་རྣལ་འབྱོར་ཟུང་འཇུག་མྱུར་ལམ་ཞེས་བྱ་བ་བཞུགས་སོ.md",
-    "1-SOURCES/Text/08. ཐུབ་པའི་དབང་པོ་སློབ་མར་བཅས་པ་ལ་བསྔགས་པ་བཏང་སྙོམས་ཆེན་པོ་ལས་འགྲོ་བའི་དོན་དུ་སད་པར་བྱེད་པའི་རྔ་གསང་ཞེས་བྱ་བ་བཞུག ….md",
     "0-INBOX/raw-data/སྟག་ལུང་སྨོན་ལམ་ཞལ་འདོན།.pdf",
     "1-SOURCES/Translations/En-Taklung_Kagyu_Monlam_Chanting_Text_Translation.md.tmp.9524.12d3beb0bf36",
     "1-SOURCES/Translations/En-Taklung_Kagyu_Monlam_Chanting_Text_Translation.md.tmp.9524.294c8f46efcc",
     "1-SOURCES/Translations/En-Taklung_Kagyu_Monlam_Chanting_Text_Translation.md.tmp.9524.57caf5ded9ce",
     "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions"
+    "gemini-scribe/Skills"
   ]
 }
