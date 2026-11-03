@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/49. བསྟན་འབར་མ་བཞུགས་སོ.md",
+                "file": "1-SOURCES/Text/མི་འཁྲུགས་པའི་ཆོ་ག.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "49. བསྟན་འབར་མ་བཞུགས་སོ"
+              "title": "མི་འཁྲུགས་པའི་ཆོ་ག"
             }
           }
         ]
@@ -200,6 +200,11 @@
   },
   "active": "601365676f54f711",
   "lastOpenFiles": [
+    "0-INBOX/temp/mi-khrugs-pa-cho-ga.segmented.md",
+    "0-INBOX/temp/sample.txt",
+    "0-INBOX/temp/mi-khrugs-pa-cho-ga.structural.md",
+    "0-INBOX/temp/mi-khrugs-pa-cho-ga.segreport.tsv",
+    "1-SOURCES/Text/49. བསྟན་འབར་མ་བཞུགས་སོ.md",
     "1-SOURCES/Text/མི་འཁྲུགས་པའི་ཆོ་ག.md",
     "1-SOURCES/Text/32. ལམ་རིམ་སྨོན་ལམ.md",
     "0-INBOX/raw-data/Bo-Taklung_Kagyu_Monlam_Chanting_Text.md",
@@ -223,9 +228,6 @@
     "1-SOURCES/Text/24. བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ་བཞུགས་སོ.md",
     "1-SOURCES/Text/21. མི་འཁྲུགས་མགོན་པོ་སྟག་ལུང་པ་ལ་བསྟེན་པའི་བླ་མའི་རྣལ་འབྱོར་ཟུང་འཇུག་མྱུར་ལམ་ཞེས་བྱ་བ་བཞུགས་སོ.md",
     "1-SOURCES/Text/08. ཐུབ་པའི་དབང་པོ་སློབ་མར་བཅས་པ་ལ་བསྔགས་པ་བཏང་སྙོམས་ཆེན་པོ་ལས་འགྲོ་བའི་དོན་དུ་སད་པར་བྱེད་པའི་རྔ་གསང་ཞེས་བྱ་བ་བཞུག ….md",
-    "1-SOURCES/Text/07. ཐུབ་བསྟོད.md",
-    "1-SOURCES/Text/04. དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་མདོ.md",
-    "1-SOURCES/Text/06. བཅོམ་ལྡན་འདས་ཐུབ་པའི་དབང་པོའི་མཛད་པ་བཅུ་གཉིས་ལ་མངོན་པར་བསྟོད་པ་བཞུགས་སོ.md",
     "0-INBOX/raw-data/སྟག་ལུང་སྨོན་ལམ་ཞལ་འདོན།.pdf",
     "1-SOURCES/Translations/En-Taklung_Kagyu_Monlam_Chanting_Text_Translation.md.tmp.9524.12d3beb0bf36",
     "1-SOURCES/Translations/En-Taklung_Kagyu_Monlam_Chanting_Text_Translation.md.tmp.9524.294c8f46efcc",
@@ -233,8 +235,6 @@
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
-    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
-    "gemini-scribe/Scheduled-Tasks"
+    "gemini-scribe/Agent-Sessions"
   ]
 }
