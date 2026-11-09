@@ -1,0 +1,337 @@
+QUATRAIN REFORMAT REPORT
+Source: ..._Fourline_Segment.docx (unchanged). Output: ..._Fourline_Segment_Quatrains.docx
+Paragraph numbers below refer to the ORIGINAL file (0-based paragraph index, python-docx order).
+
+Untouched: everything up to and including your manual stanza (paragraphs 0-120), all prose, colophons, headings, sutra/litany passages, and any run that did not pass the verse test.
+
+Converted: 165 verse passages, ~6,056 Tibetan lines, regrouped as 4 Tibetan / 4 transliteration / 4 translation.
+
+== A. Groups with fewer than 4 lines (5-, 7- or 6-line stanzas etc.; left as 1-3 lines) ==
+GROUP of 1 line(s) (not 4) at original para 319: འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །
+GROUP of 1 line(s) (not 4) at original para 819: ངང་དུ་གནས་པར་མཛད་དུ་གསོལ། །
+GROUP of 1 line(s) (not 4) at original para 1255: བླ་མ་དུས་གསུམ་གྱི་སངས་རྒྱས་རིན་པོ་ཆེ་ལ་གསོལ་བ་འདེབ
+GROUP of 2 line(s) (not 4) at original para 1463: ཡིད་ཆེས་ངེས་པའི་མོས་གུས་བརྟན་པོ་ཡིས། །
+GROUP of 2 line(s) (not 4) at original para 1495: བདག་གཞན་མ་ལུས་ཚོགས་རྫོགས་སྒྲིབ་བྱང་ནས།།
+GROUP of 2 line(s) (not 4) at original para 1920: བྱང་ཆུབ་སེམས་དཔའ་གང་ན་སུ་ཞུགས་པ། །
+GROUP of 3 line(s) (not 4) at original para 2049: འཁོར་བའི་རྒྱ་མཚོ་སྟོང་པར་མ་གྱུར་བར། །
+GROUP of 1 line(s) (not 4) at original para 2083: སྐྱེས་མཆོག་སྐུ་ཡལ་བ་ལ་གསོལ་བ་འདེབས། །
+GROUP of 1 line(s) (not 4) at original para 2236: སུམ་ལྡན་རྗེ་དང་ཡོན་ཏན་མཉམ་པར་ཤོག  །
+GROUP of 2 line(s) (not 4) at original para 2509: རྣམ་པར་སྨིན་པའང་བསམ་མི་ཁྱབ། །
+GROUP of 1 line(s) (not 4) at original para 3068: ཀུན་མཁྱེན་གོ་འཕང་ཐོབ་པར་ཤོག ། །
+GROUP of 1 line(s) (not 4) at original para 4284: སྐྱེ་རྒུ་ཆོས་ལ་སྤྱོད་པར་ཤོག །
+GROUP of 2 line(s) (not 4) at original para 4291: ཤེས་བྱའི་མཁའ་ལ་མཁྱེན་རབ་དཀྱིལ་འཁོར་རྒྱས། །
+GROUP of 1 line(s) (not 4) at original para 6509: ཀུན་མཁྱེན་སངས་རྒྱས་འབྲས་བུ་ཐོབ་མཛད་གསོལ། །
+GROUP of 2 line(s) (not 4) at original para 6697: བསོད་ནམས་རིན་ཆེན་གླིང་དུ་སྤྱན་འདྲེན་ན། །
+GROUP of 2 line(s) (not 4) at original para 7557: རྣམ་པར་སྨིན་པའང་བསམ་མི་ཁྱབ། །
+GROUP of 1 line(s) (not 4) at original para 7709: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 7845: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 7979: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 8113: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས།    །
+GROUP of 1 line(s) (not 4) at original para 8247: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 8381: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས།    །
+GROUP of 1 line(s) (not 4) at original para 8515: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 8673: ཞི་དུལ་དད་བརྩོན་ཤེས་རབ་འཕེལ་བར་ཤོག
+GROUP of 1 line(s) (not 4) at original para 8771: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 8905: བསྟན་པར་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 9039: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 9161: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 9295: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 9429: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 9563: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 9697: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 9915: སྐལ་བཟང་ཞིང་ཡོན་རྟེན་འབྲེལ་སྒྲིག་པར་ཤོག
+GROUP of 1 line(s) (not 4) at original para 10016: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 1 line(s) (not 4) at original para 10114: བསྟན་པ་རྒྱས་པར་བྱིན་གྱིས་རློབས། །
+GROUP of 2 line(s) (not 4) at original para 10237: བདེ་ལེགས་ཕུན་གསུམ་ཚོགས་པ་ཡི།  །
+GROUP of 1 line(s) (not 4) at original para 11000: དགེ་བའི་འགྲོ་ཀུན་སངས་རྒྱས་མྱུར་ཐོབ་ཤོག། །
+GROUP of 1 line(s) (not 4) at original para 11494: ཁྱེད་ཀྱི་ཐུགས་རྗེའི་གཟིགས་ཤིག །
+GROUP of 3 line(s) (not 4) at original para 11700: རྗེ་བཙུན་དཔལ་ལྡན་བླ་མ་དམ་པ་ལ། །
+GROUP of 3 line(s) (not 4) at original para 11823: མཁའ་འགྲོ་ཆོས་སྐྱོང་འཁོར་ཚོགས་རྣམས། །
+GROUP of 1 line(s) (not 4) at original para 11866: རྗེ་བཙུན་འཁོར་དང་བཅས་ལ་འབུལ། །
+GROUP of 1 line(s) (not 4) at original para 12056: སྣང་སྲིད་ཕྱག་བརྒྱ་ཆེན་པོར་འགྲུབ། །
+GROUP of 3 line(s) (not 4) at original para 12097: མདུན་གྱི་ནམ་མཁར་སྤྱན་དྲངས་དེ་དག་གི  །
+GROUP of 1 line(s) (not 4) at original para 12210: ཀྵེཏྲ་པ་ལ་ཛི་ན་མི་ཏྲ་དང་། །
+GROUP of 2 line(s) (not 4) at original para 12385: སྒྲུབ་པོའི་བར་ཆད་སོལ་ལ་མཐུན་རྐྱེན་སྒྲུབས། །
+GROUP of 1 line(s) (not 4) at original para 12409: གནས་མཆོག་དམ་པ་འདི་རུ་གཤེགས་སུ་གསོལ།
+GROUP of 2 line(s) (not 4) at original para 12579: ཡུལ་ཕྱོགས་རྒྱལ་ཁམས་ས་ཕྱོགས་འདི་དག་ཀུན།   །
+GROUP of 2 line(s) (not 4) at original para 12846: ཡོན་ཏན་བསྔགས་པ་མཐའ་ཡས་རྒྱ་མཚོ་འདྲ་ཀུན་ལ།
+GROUP of 2 line(s) (not 4) at original para 13258: བསྐལ་པ་རྒྱ་མཚོར་སྤྱོད་ཅིང་རབ་ཏུ་འཇུག །
+GROUP of 1 line(s) (not 4) at original para 13407: གང་གི་མིང་ནི་ཀུན་ཏུ་བཟང་ཞེས་བྱ། །
+GROUP of 2 line(s) (not 4) at original para 13662: ཀུན་ཏུ་བཟང་པོས་བརྒྱན་པའི་གཞུང་གྲུབ་སྟེ།  །
+GROUP of 2 line(s) (not 4) at original para 14330: བློ་ཡིས་སྟོབས་ཀྱིས་ཕྱོགས་བཅུ་རྣམས་སུ་ཡང༌། །
+GROUP of 3 line(s) (not 4) at original para 14350: མཐོ་རིས་མི་ཡི་ལུས་སུ་སྐྱེས་ནས་ཀྱང་། །
+GROUP of 2 line(s) (not 4) at original para 15120: གང་གི་དྲིན་གྱིས་བདག་དར་བ། །
+GROUP of 3 line(s) (not 4) at original para 15528: བཀྲ་ཤིས་ངོ་མཚར་མཛད་བཟང་ཆེར་བརྗོད་མཐུས། །
+GROUP of 1 line(s) (not 4) at original para 16991: འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །
+GROUP of 2 line(s) (not 4) at original para 19373: རྫོགས་པའི་སངས་རྒྱས་སྨྲ་རྣམས་ཀྱི། །
+GROUP of 3 line(s) (not 4) at original para 19395: ན་མོ་ཛ་ཡེནྡྲ་མངྒ་ལ་ཤྲི་ཡེ།
+GROUP of 2 line(s) (not 4) at original para 19510: བསྲུང་བྱ་བླ་མ་གདུགས་དཀར་གྱི་ཏོག་ཏུ་ཞུགས།
+GROUP of 2 line(s) (not 4) at original para 19581: བདུད་ཀྱི་ཁྲམ་འབེབས་ཐམས་ཅད་བཟློག  །
+GROUP of 2 line(s) (not 4) at original para 19726: བོད་གཞུང་ཚད་ལྡན་རྣམས་ཀྱི་བཅུད་བསྡུས་ཏེ། །
+GROUP of 2 line(s) (not 4) at original para 19756: རྡོ་རྗེ་གཙུག་ཏོར་ཕྱིར་ཟློག་ཆེན་མོའི་སྐུ།   །
+GROUP of 2 line(s) (not 4) at original para 19816: ཐུགས་དབུས་ཟླ་སྟེང་ༀ་ཡིག་དཀར་པོའི་མཐར། །
+GROUP of 1 line(s) (not 4) at original para 20152: དབང་བསྐུར་མི་བསྐྱོད་དབུ་བརྒྱན་གྱུར། །
+GROUP of 1 line(s) (not 4) at original para 20229: ཅེས་ཁམས་སྤྲུལ་ཀུན་དགའ་བསྟན་འཛིན་གྱིས་མཛད་སྐད། །
+GROUP of 2 line(s) (not 4) at original para 20339: བདག་ཅག་མོས་གུས་ཟབ་མོའི་སྟོབས་དག་གིས། །
+GROUP of 3 line(s) (not 4) at original para 20400: བདག་སོགས་མོས་པའི་རྟེན་འབྲེལ་འགྱུར་མེད་མཐུས། །
+GROUP of 3 line(s) (not 4) at original para 20632: དཀོན་མཆོག་གསུམ་དང་རྩ་གསུམ་ལྷ་ཚོགས་ཀྱིས། །
+GROUP of 1 line(s) (not 4) at original para 20683: དཔལ་མགོན་ཕྱག་བཞི་ཕྱག་དྲུག་ལེགས་ལྡན་གུར་གྱི་མགོན། །
+GROUP of 2 line(s) (not 4) at original para 20785: གནས་འདིར་ཉིན་མཚན་རྟག་ཏུ་བདེ་ལེགས་པའི།   །
+GROUP of 1 line(s) (not 4) at original para 21274: ཡུན་རིང་བསྟན་པ་འབར་གྱུར་ཅིག །
+
+== B. Lines missing translation or transliteration in the source ==
+NO TRANSLATION line at para 1993: སྐྱོན་བྲལ་འདྲེས་པ་མེད་ལ་ལྷག་ནས་ཀྱང་། །
+NO TRANSLATION line at para 1995: ངའོ་ཟད་པས་འཁོར་གསུམ་ཡོངས་སུ་དག །
+NO TRANSLATION line at para 2984: མི་མཚམས་དུ་མ་འདུ་བགྱིས་ཀྱང་། །
+NO TRANSLATION line at para 4235: བརྒྱུད་པ་རིན་ཆེན་མ་ནོར་བར། །
+NO TRANSLATION line at para 5387: ཚེ་སྒྲུབ་པ་མཉམ་པའི་ཞལ་གདམ་བཅས། །
+NO TRANSLIT line at para 6420: དཔལ་གྱི་ནོར་བུས་སྐྱེ་རྒུའི་རེ་འདོད་བསྐང་། །
+NO TRANSLATION line at para 13261: གསུང་གཅིག་ཡན་ལག་རྒྱ་མཚོའི་སྒྲ་སྐད་ཀྱིས། །
+NO TRANSLATION line at para 13267: འགྲོ་བ་ཀུན་གྱི་བསམ་པ་ཇི་བཞིན་དབྱངས། །
+NO TRANSLATION line at para 13296: དུས་གསུམ་གཤེགས་པ་མི་ཡི་སེང་གེ་གང༌། །
+NO TRANSLATION line at para 13407: གང་གི་མིང་ནི་ཀུན་ཏུ་བཟང་ཞེས་བྱ། །
+NO TRANSLATION line at para 13784: སངས་རྒྱས་རྣམས་ནི་སྨོད་མི་མཛད། །
+NO TRANSLATION line at para 15214: འགྲོ་རྒྱུད་བདེ་སྙིང་བཟོད་ནས་རྟག་དགེ་ཞིང་། །
+NO TRANSLATION line at para 16372: མཁའ་མཉམ་ཆོས་ལ་སྤྱོད་པའི་བཀྲ་ཤིས་ཤོག །
+NO TRANSLATION line at para 17216: མཚན་བརྗོད་པས་ནི་དོན་ཆེ་བ། །
+NO TRANSLATION line at para 19003: བྱང་ཆུབ་ཐོབ་པའི་དོན་ཆེན་མཛད།
+NO TRANSLATION line at para 19584: མུ་སྟེགས་ངན་པ་ཐམས་ཅད་བཟློག  །
+NO TRANSLATION line at para 19729: ཉམས་ལེན་བདེ་ཞིང་བྱིན་རླབས་ཆེ་བ་འདི། །
+NO TRANSLATION line at para 19759: དབུ་སྟོང་མདུན་ཞལ་སྒེག་པ་ཉིས་བརྒྱ་དཀར། །
+NO TRANSLATION line at para 19819: སྔགས་ཕྲེང་འོད་ཀྱིས་སྒྲིབ་བསལ་མཐུ་སྟོབས་རྒྱས། །
+NO TRANSLIT line at para 20132: པད་ཉི་བསྟན་དགྲ་བསྣོལ་བའི་སྟེང་། །
+NO TRANSLIT line at para 20227: བཀྲ་ཤིས་དེས་ཀྱང་དེང་འདིར་བདེ་ལེགས་ཤོག།།
+NO TRANSLIT line at para 20473: དཀོན་མཆོག་རིན་ཆེན་གསུམ་གྱི་བདེན་སྟོབས་ཀྱིས། །
+NO TRANSLIT line at para 20496: ཐུགས་བསྐྱེད་ནུས་པ་རྨད་དུ་བྱུང་བ་ཡིས། །
+
+== C. English translation split or joined by me to match the Tibetan line count (please eyeball) ==
+CHECK [N-split] at original para 205: སྟོང་གསུམ་ཀུན་ཏུ་མཉམ་པ་ཡི། །
+CHECK [N-split] at original para 205: པདྨ་འདབ་བརྒྱད་གེ་སར་བཅས། །
+CHECK [N-split] at original para 289: མི་ཕྱེད་རྡོ་རྗེའི་སྐུ་དག་ལ། །
+CHECK [N-split] at original para 289: མི་ཕྱེད་དད་པས་བདག་འབུལ་ན། །
+CHECK [N-split] at original para 322: ཇི་སྙེད་སུ་དག་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ན། །
+CHECK [N-split] at original para 322: དུས་གསུམ་གཤེགས་པ་མི་ཡི་སེང་གེ་ཀུན། །
+CHECK [N-split] at original para 648: རྒྱུན་ཆད་མེད་པའི་བསམ་གཏན་མཆོག ། །
+CHECK [N-split] at original para 648: ཆར་པ་ཆེན་པོ་དབབ་ཏུ་གསོལ། །
+CHECK [N-split] at original para 654: བདག་ཅག་རྗེས་འཇུག་སེམས་ཅན་གྱི། །
+CHECK [N-split] at original para 654: རྣམ་རྟོག་བདེ་སྡུག་འཁྲུལ་པ་ཀུན། །
+CHECK [N-split] at original para 657: མཉམ་ཉིད་བྱམས་པའི་ཆུ་བོ་ཡིས། །
+CHECK [N-split] at original para 657: འཚེ་བ་ཐམས་ཅད་རབ་ཞི་ནས། །
+CHECK [N-split] at original para 675: དམ་པ་ཁྱེད་ཀྱིས་རྟོག་པ་ཡི། །
+CHECK [N-split] at original para 675: མཚན་མའི་དངོས་པོ་བཤིག་གྱུར་ཀྱང་།།
+CHECK [N-split] at original para 720: ངོ་བོ་ཉིད་ཀྱི་རང་སེམས་ལ། །
+CHECK [N-split] at original para 720: ཡེངས་པ་མེད་པར་བལྟས་ནས་ཀྱང་། །
+CHECK [N-split] at original para 723: ནགས་ཁྲོད་དབེན་པ་སྟེས་དབང་གིས། །
+CHECK [N-split] at original para 723: ཕྲད་ཅིང་རང་དབང་བསྟེན་མཛད་གསོལ། །
+CHECK [N-split] at original para 747: དེ་བཞིན་གཤེགས་པའི་ཡེ་ཤེས་ཀྱིས། །
+CHECK [N-split] at original para 747: གང་དང་ཤིན་ཏུ་གང་བ་དང༌། །
+CHECK [N-split] at original para 753: ཡི་དམ་ཆོས་སྐྱོང་དཀོན་མཆོག་གིས། །
+CHECK [N-split] at original para 753: བདག་ཅག་སྒྲུབ་པ་བྱེད་པ་ལ། །
+CHECK [N-short] at original para 2984: ཡི་གའི་རྣམ་འཕྲུལ་དེ་རྣམས་ཀྱིས། །
+CHECK [N-short] at original para 2984: མི་མཚམས་དུ་མ་འདུ་བགྱིས་ཀྱང་། །
+CHECK [N-split] at original para 2990: དཔག་དཀའ་འཁོར་བའི་མཚོ་ཆེན་ལ། །
+CHECK [N-split] at original para 2990: བསམ་གཏན་གྲུ་རྫིངས་རབ་བཅས་ཏེ། །
+CHECK [N-split] at original para 3047: རིན་ཆེན་དབང་གི་རྒྱལ་པོས་ཀྱང་། །
+CHECK [N-split] at original para 3047: དཔེར་བྱར་མེད་པའི་རིང་བསྲེལ་རྣམས། །
+CHECK [N-split] at original para 3050: ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་གྱི། །
+CHECK [N-split] at original para 3050: སྐྱེ་རྒུའི་བསོད་ནམས་མགྲོན་དུ་གྱུར། །
+CHECK [N-split] at original para 3056: གདུལ་བྱ་བགྲངས་ཡས་སྨིན་མཛད་པ། །
+CHECK [N-split] at original para 3056: རྟག་པའི་ཕྲིན་ལས་ཅན་དེར་འདུད། །
+CHECK [N-split] at original para 3582: ཏིང་ངེ་འཛིན་ལ་མངའ་བརྙེས་པའི། །
+CHECK [N-split] at original para 3582: འགྲན་པའི་ཟླ་དང་བྲལ་གྱུར་པ། །
+CHECK [N-split] at original para 3683: མ་ལུས་སངས་རྒྱས་ཐམས་ཅད་ཀྱི། །
+CHECK [N-split] at original para 3683: མཁྱེན་བརྩེའི་མཛད་པ་གཅིག་བསྡུས་ཁྱོད། །
+CHECK [N-split] at original para 3924: མི་ནུབ་སྲིད་པའི་རྩེ་མོ་རུ། །
+CHECK [N-split] at original para 3924: རྣམ་པར་སྒྲེང་བའི་བྱེད་པོ་མཆོག །
+CHECK [N-split] at original para 3930: དུས་གསུམ་རྒྱལ་བ་སྲས་བཅས་ཀྱི། །
+CHECK [N-split] at original para 3930: མཁྱེན་བརྩེ་ནུས་པའི་མཛད་ཕྲིན་ཀུན། །
+CHECK [N-split] at original para 4048: རྒྱལ་བ་སྲས་དང་བཅས་རྣམས་ཀྱི། །
+CHECK [N-split] at original para 4048: ཇི་ལྟར་ཡོངས་སུ་བསྔོས་པ་བཞིན། །
+CHECK [N-split] at original para 4199: ནུབ་གཅིག་སྐུ་ཡི་སྤྲུལ་པ་ནི། །
+CHECK [N-split] at original para 4199: བྱེ་བ་ཕྲག་བརྒྱར་འགྱེད་ནུས་པའི། །
+CHECK [N-short] at original para 4235: དཔལ་ལྡན་སྟག་ལུང་བཀའ་བརྒྱུད་ཀྱི། །
+CHECK [N-short] at original para 4235: བརྒྱུད་པ་རིན་ཆེན་མ་ནོར་བར། །
+CHECK [N-split] at original para 4247: བླ་མ་རྣམས་ཀྱི་ཐུགས་རྗེ་ཡིས། །
+CHECK [N-split] at original para 4247: བྱིན་རླབས་རྒྱུད་ལ་གཞུག་ཏུ་གསོལ། །
+CHECK [N-split] at original para 4278: ཕྱོགས་དུས་ཡུལ་ཁམས་ཐམས་ཅད་དུ། །
+CHECK [N-split] at original para 4278: ཁྱབ་ཅིང་དར་རྒྱས་རྟག་པ་དང་། །
+CHECK [N-split] at original para 5000: ཡོངས་སུ་གྲུབ་པ་ནུབ་གཅིག་སྐུ་ལུས་ཀྱི། །
+CHECK [N-split] at original para 5000: བཀོད་པ་བཅུ་གཉིས་བསྟན་དེར་གསོལ་བ་འདེབས། །
+CHECK [N-split] at original para 5208: ང་རང་དུས་གསུམ་སངས་རྒྱས་ཀྱི། །
+CHECK [N-split] at original para 5208: སྐུ་གསུང་ཐུགས་དང་དབྱེར་མི་ཕྱེད། །
+CHECK [N-joined] at original para 5548: མཆོད་སྦྱིན་བཀད་ས་ནག་ཚང་ནས། །
+CHECK [N-joined] at original para 7644: བདེ་གཤེགས་ཉིད་ཀྱི་མཛད་དང་མཚུངས་པར་ཤོག །
+CHECK [N-joined] at original para 12201: སྒྲུབ་པོའི་འགལ་རྐྱེན་བར་ཆད་མི་མཐུན་ཕྱོགས། །
+CHECK [N-joined] at original para 12314: སྒྲུབ་པའི་འགལ་རྐྱེན་བར་ཆད་མི་མཐུན་ཕྱོགས། །
+CHECK [N-joined] at original para 12481: བསྟན་ལ་སྡང་བའི་དགྲ་བགེགས་ཀྱི། །
+CHECK [N-joined] at original para 12558: མི་བསྲུན་ཁྲོས་པའི་ཆ་བྱེད་འཇིགས་རུང་བ། །
+CHECK [L-joined] at original para 13074: བྱང་ཆུབ་ཤིང་དབང་དྲུང་གཤེགས་རྒྱལ་བ་དང༌། །
+CHECK [N-split] at original para 13714: བདག་ལས་རྣམ་པ་གསུམ་གང་གི །
+CHECK [N-split] at original para 13714: བསོད་ནམས་ཚོགས་ནི་བསྐྱེད་པ་སྟེ། །
+CHECK [N-split] at original para 13751: བྱང་ཆུབ་སེམས་དཔའ་བྱང་ཆུབ་མཆོག །
+CHECK [N-split] at original para 13751: འཚང་རྒྱ་བགྱིད་པར་བསྐུལ་མ་འདེབས། །
+CHECK [N-split] at original para 13766: ཆོས་རྔ་ཆེན་པོ་སྒྲ་ཡིས་ནི། །
+CHECK [N-split] at original para 13766: སྡུག་བསྔལ་སེམས་ཅན་མཐར་བགྱིད་ཤོག །
+CHECK [N-split] at original para 13769: བསྐལ་པ་བྱེ་བ་བསམ་ཡས་སུ། །
+CHECK [N-split] at original para 13769: ཆོས་སྟོན་མཛད་ཅིང་བཞུགས་གྱུར་ཅིག །
+CHECK [N-short] at original para 13784: སེམས་ཀྱི་དྲི་མར་གྱུར་པ་ལ། །
+CHECK [N-short] at original para 13784: སངས་རྒྱས་རྣམས་ནི་སྨོད་མི་མཛད། །
+CHECK [N-joined] at original para 15131: ག་ལར་རྒྱལ་བ་མི་འཁྲུགས་མགོན་པོ་ནི།  །
+CHECK [N-joined] at original para 15174: ཡོན་ཡོངས་སྦྱོང་བའི་ཚོགས་ཀྱི་ཞིང་དུ་བཀོད། །
+CHECK [N-split] at original para 17072: སྒྱུ་འཕྲུལ་དྲ་བ་མངོན་རྫོགས་པའི། །
+CHECK [N-split] at original para 17072: བྱང་ཆུབ་ཅི་ནས་བདག་ཐོབ་མཛོད། །
+CHECK [N-split] at original para 17165: བསམ་པའི་ཁྱད་པར་ཇི་བཞིན་དུ། །
+CHECK [N-split] at original para 17165: སེམས་ཅན་རྣམས་ལ་བཤད་པར་འཚལ། །
+CHECK [N-split] at original para 17210: ལག་ན་རྡོ་རྗེ་སྟོབས་པོ་ཆེ། །
+CHECK [N-split] at original para 17210: གསང་དབང་ལ་ནི་སླར་གསུངས་པ། །
+CHECK [N-split] at original para 17213: སྙིང་རྗེ་ཆེ་དང་ལྡན་གྱུར་པས། །
+CHECK [N-split] at original para 17213: འགྲོ་ལ་ཕན་པའི་དོན་དུ་ཁྱོད། །
+CHECK [N-short] at original para 17216: ཡེ་ཤེས་ལུས་ཅན་འཇམ་དཔལ་གྱི། །
+CHECK [N-short] at original para 17216: མཚན་བརྗོད་པས་ནི་དོན་ཆེ་བ། །
+CHECK [N-split] at original para 17228: ཁྱོད་ལ་ལེགས་པར་བསྟན་པར་བྱ། །
+CHECK [N-split] at original para 17228: ཁྱོད་ནི་རྩེ་གཅིག་ཡིད་ཀྱིས་ཉོན། །
+CHECK [N-split] at original para 18076: འཇིག་ཆེན་དགྲ་སྟེ་རབ་ཀྱི་མཆོག། །
+CHECK [N-split] at original para 18076: འཇིགས་པ་མ་ལུས་སེལ་བ་པོ། །
+CHECK [N-split] at original para 18436: དཔལ་ལྡན་ལག་པ་བརྒྱས་གང་ལ། །
+CHECK [N-split] at original para 18436: ནམ་མཁའ་ཁྱབ་པར་གར་བྱེད་པ། །
+CHECK [N-short] at original para 19003: བདག་ཅག་ཡང་དག་རྫོགས་པ་ཡི། །
+CHECK [N-short] at original para 19003: བྱང་ཆུབ་ཐོབ་པའི་དོན་ཆེན་མཛད།
+CHECK [N-joined] at original para 20132: པད་ཉི་བསྟན་དགྲ་བསྣོལ་བའི་སྟེང་། །
+CHECK [N-joined] at original para 20285: སྐྱེས་མཆོག་རིམ་བྱོན་རྣམས་ལ་ཕྱག་འཚལ་ལོ། །
+CHECK [N-joined] at original para 20292: རྒྱལ་བའི་ཆོས་ཀྱི་འཁོར་ལོའི་སྙིང་པོའི་བཅུད། །
+CHECK [N-joined] at original para 20323: སྟག་ལུང་བཀའ་བརྒྱུད་ཅེས་གྲགས་རིང་ལུགས་ཆེ། །
+CHECK [N-joined] at original para 20380: བསྟན་འགྲོ་དཔུང་གཉེན་དམ་པར་ཞབས་བརྟན་ཤོག །
+CHECK [N-joined] at original para 20384: མོས་གུས་མཐར་ཕྱིན་སྟག་ལུང་བཀའ་སྲོལ་གྱི། །
+CHECK [N-joined] at original para 20400: བདག་སོགས་མོས་པའི་རྟེན་འབྲེལ་འགྱུར་མེད་མཐུས། །
+CHECK [N-joined] at original para 20430: རྒྱུད་ལྔའི་འགྲོ་ལ་ཐུགས་རྗེས་གཞན་དབང་གིས། །
+CHECK [N-joined] at original para 20437: རྒྱལ་བའི་དབང་པོ་ཚེ་དཔག་མེད་པ་ཡིས། །
+CHECK [N-joined] at original para 20441: འཆི་མེད་གྲུབ་པའི་བྱིན་ཆེན་དེང་འདིར་ཕོབས། །
+CHECK [N-joined] at original para 20445: རྨད་བྱུང་བདེ་བར་གཤེགས་པའི་བསྟན་བཅོས་མཆོག།།
+CHECK [N-joined] at original para 20496: ཐུགས་བསྐྱེད་ནུས་པ་རྨད་དུ་བྱུང་བ་ཡིས། །
+CHECK [N-joined] at original para 20505: རྒྱལ་བསྟན་སྤྱི་དང་དཔལ་ལྡན་སྟག་ལུང་པའི། །
+CHECK [N-joined] at original para 20509: ལུང་རྟོགས་ཆོས་ཀྱི་དགའ་སྟོན་སྤེལ་བཞིན་དུ། །
+CHECK [N-joined] at original para 20516: ཕན་བདེའི་ཕྲིན་ལས་འཛམ་གླིང་ཀུན་ཏུ་ཁྱབ། །
+CHECK [N-joined] at original para 20520: ཚུལ་གནས་ཐོས་བསམ་སྒོམ་པའི་དཔལ་མཐར་ཕྱིན། །
+
+== D. Other warnings ==
+
+== E. Verse-like passages I deliberately did NOT convert (borderline) ==
+units 749-750 para 2297: དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། ། (n<2)
+units 751-752 para 2303: རིག་པ་དང་ཞབས་སུ་ལྡན་པ། (n<2)
+units 755-770 para 2315: ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཏེ། (cfrac)
+units 771-773 para 2363: ཡེ་ཤེས་དཔག་ཏུ་མེད་པ། (cfrac)
+units 774-775 para 2372: སྐུ་བྱད་ལྟ་བས་ཆོག་མི་ཤེས་པ། (n<2)
+units 776-782 para 2378: འདོད་པ་དག་གིས་མ་གོས་པ། (cfrac)
+units 783-785 para 2399: མདུད་པ་རྣམས་ཤིན་ཏུ་བཅད་པ། (cfrac)
+units 787-788 para 2411: ཡེ་ཤེས་ཡོངས་སུ་རྫོགས་པ། (n<2)
+units 790-793 para 2420: མྱ་ངན་ལས་འདས་པ་ལ་མི་གནས་པ། (cfrac)
+units 797-798 para 2441: བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་ལེགས་པར་གསུངས་པ། (n<2)
+units 800-801 para 2450: འདི་མཐོང་བ་ལ་དོན་ཡོད་པ། (n<2)
+units 802-803 para 2454: མཁས་པ་རྣམས་ཀྱིས་སོ་སོར་རང་གིས་རིག་པར་བྱ་བ། (n<2)
+units 805-809 para 2463: རྫོགས་པའི་བྱང་ཆུབ་ཏུ་འགྲོ་བར་བྱེད་པ། (cfrac)
+units 810-816 para 2478: ཐལ་མོ་སྦྱར་བའི་འོས་སུ་གྱུར་པ། (cfrac)
+units 829-831 para 2526: སྐྱེས་བུ་འདུལ་བའི་ཁ་ལོ་བསྒྱུར་བ། (cfrac)
+units 2219-2226 para 6522: སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ལ་སྐྱབས་སུ་མཆིའོ། ། (m=0.67)
+units 2230-2237 para 6556: སེམས་ཅན་བདེ་དང་ལྡན་པ་དང་། ། (m=0.67)
+units 2240-2241 para 6588: ཆོས་ཀྱི་རོའི་དགའ་བ་དང་བདེ་བ་ཆེན་པོའི་བརྟན་པ། ། (n<2)
+units 2242-2243 para 6595: ལྟེ་བ་མུ་ཁྱུད་དང་བཅས་པ་གྲུབ་པར་གྱུར། ། (n<2)
+units 2280-2281 para 6705: དབུས་སུ་སེང་ཁྲི་པདྨ་ཟླ་བའི་གདན་ལ། ། (n<2)
+units 2282-2289 para 6711: སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་སྐུ་མདོག་གསེར་བཙོ་མ་ལྟ་བུ་ (cfrac)
+units 2291-2292 para 6738: མ་ཕམ་པ་ཕྱག་གཉིས་མཉམ་པར་བཞག་པ། (n<2)
+units 2293-2294 para 6744: དུས་ལྡན་ཕྱག་གཉིས་གསེར་གྱི་རྣ་ཀོར་འཛིན་པའོ། ། (n<2)
+units 2296-2303 para 6753: བཟང་པོ་གཡས་ཆོས་འཆད་དང་གཡོན་མཉམ་བཞག་མཛད་པ། (cfrac)
+units 2304-2308 para 6777: བྱང་གི་འདབ་མ་བཞི་ལ། (cfrac)
+units 2312-2321 para 6802: དར་གྱི་ན་བཟའ་ལྷབ་ལྷུབ་ཏུ་གསོལ་བ། (cfrac)
+units 2325-2327 para 6838: དཀོན་མཆོག་གསུམ་གྱི་བདེན་པ་དང་། (cfrac)
+units 2328-2331 para 6847: འཕགས་པའི་བཞུགས་གནས་དྭངས་ཤིང་བདེ་ལ་ཡིད་ཆགས་པ། (cfrac)
+units 2332-2334 para 6859: སྤང་ལྗོངས་དང་ནེའུ་སིང་དང་། (cfrac)
+units 2335-2336 para 6868: ཡན་ལག་བརྒྱད་དང་ལྡན་པའི་ཁྲུས་ཀྱི་རྫིང་བུ་དང་། (n<2)
+units 2339-2340 para 6880: ལྷ་རྫས་ཀྱི་རྒྱན་བཀོད་ཚད་མེད་པས་སྤྲས་པ། (n<2)
+units 2672-2673 para 7341: དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། (n<2)
+units 2674-2675 para 7347: རིག་པ་དང་ཞབས་སུ་ལྡན་པ། (n<2)
+units 2678-2693 para 7359: ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཏེ། (cfrac)
+units 2694-2696 para 7407: ཡེ་ཤེས་དཔག་ཏུ་མེད་པ། (cfrac)
+units 2698-2699 para 7417: སྐུ་བྱད་ལྟ་བས་ཆོག་མི་ཤེས་པ། (n<2)
+units 2700-2704 para 7423: འདོད་པ་དག་གིས་མ་གོས་པ། (cfrac)
+units 2705-2707 para 7436: ཕུང་པོ་དག་ལས་རབ་ཏུ་རྣམ་པར་གྲོལ་བ། (cfrac)
+units 2708-2710 para 7445: མདུད་པ་རྣམས་ཤིན་ཏུ་བཅད་པ། (cfrac)
+units 2713-2714 para 7458: ཡེ་ཤེས་ཡོངས་སུ་རྫོགས་པ། (n<2)
+units 2716-2719 para 7467: མྱ་ངན་ལས་འདས་པ་ལ་མི་གནས་པ། (cfrac)
+units 2723-2724 para 7488: བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་ལེགས་པར་གསུངས་པ། (n<2)
+units 2726-2728 para 7497: འདི་མཐོང་བ་ལ་དོན་ཡོད་པ། (cfrac)
+units 2730-2732 para 7509: རྫོགས་པའི་བྱང་ཆུབ་ཏུ་འགྲོ་བར་བྱེད་པ། (cfrac)
+units 2733-2735 para 7516: བརྟེན་པ་ཡོད་པ།   རྒྱུ་བ་བཅད་པའོ། ། (m=0.00)
+units 2736-2742 para 7525: ཐལ་མོ་སྦྱར་བའི་འོས་སུ་གྱུར་པ། (cfrac)
+units 4459-4466 para 12439: སངས་རྒྱས་ཀྱི་བསྟན་པ་སྲུང་། (cfrac)
+units 4469-4470 para 12460: མཐུན་རྐྱེན་སྨོན་པའི་ལེགས་ཚོགས་ཐམས་ཅད་འཕེལ་ཞིང་རྒྱས (n<2)
+units 4525-4529 para 12589: སེམས་ཅན་ཐམས་ཅད་དུས་རྟག་པར་བླ་མ་ལ་སྐྱབས་སུ་མཆིའོ། ། (litany)
+units 4530-4552 para 12605: རྡོ་རྗེ་སྙིང་པོ་རབ་ཏུ་འཇོམས་པ་ལ་ཕྱག་འཚལ་ལོ། ། (litany)
+units 4554-4563 para 12677: ནོར་དཔལ་ལ་ཕྱག་འཚལ་ལོ། ། (litany)
+units 4567-4568 para 12716: བགྱིས་པ་ལ་རྗེས་སུ་ཡི་རང་བའམ། (n<2)
+units 4570-4571 para 12725: ཕྱོགས་བཅུའི་དགེ་འདུན་གྱི་དཀོར་འཕྲོག་པ་དང༌། (n<2)
+units 4572-4573 para 12731: མཚམས་མ་མཆིས་པ་ལྔའི་ལས་བགྱིས་པ་དང་། (n<2)
+units 4577-4582 para 12744: ལས་ཀྱི་སྒྲིབ་པ་གང་གིས་སྒྲིབ་ནས་ (cfrac)
+units 4583-4586 para 12762: ལྷ་ཚེ་རིང་པོ་རྣམས་སུ་སྐྱེ་བའམ། (cfrac)
+units 4590-4591 para 12781: དེ་དག་གི་སྤྱན་སྔར་མཐོལ་ལོ་བཤགས་སོ། ། (n<2)
+units 4592-4593 para 12787: སླན་ཆད་ཀྱང་གཅོད་ཅིང་སྡོམ་པར་བགྱིད་ལགས་སོ། ། (n<2)
+units 4601-4602 para 12814: བླ་མའི་ཡང་བླ་མར་ཡོངས་སུ་བསྔོས་པའི་ (n<2)
+units 4606-4609 para 12829: སྡིག་པ་ཐམས་ཅད་ནི་སོ་སོར་བཤགས་སོ། ། (m=0.50)
+units 4610-4611 para 12841: མི་མཆོག་རྒྱལ་བ་གང་དག་ད་ལྟར་བཞུགས་པ་དང༌། (n<2)
+units 5992-5997 para 16882: བསོད་ནམས་སྟོབས་ཆེན་འདི་ཡི་མཐུས། ། (m=0.75)
+units 6007-6008 para 16928: ལས་དང་རྣམ་པར་སྨིན་པ་ལ་སྤྲོ་ན་བྱ། (n<2)
+units 6757-6758 para 19029: སྨྲ་བསམ་བརྗོད་མེད་ཤེས་རབ་ཕ་རོལ་ཕྱིན། ། (n<2)
+units 6759-6760 para 19033: མ་སྐྱེས་མི་འགགས་ནམ་མཁའི་ངོ་བོ་ཉིད། ། (n<2)
+units 6761-6762 para 19037: སོ་སོ་རང་རིག་ཡེ་ཤེས་སྤྱོད་ཡུལ་བ། ། (n<2)
+units 6763-6764 para 19041: དུས་གསུམ་རྒྱལ་བའི་ཡུམ་ལ་ཕྱག་འཚལ་ལོ།   ། (n<2)
+units 6769-6770 para 19053: འདི་སྐད་བདག་གི་ཐོས་པ་དུས་གཅིག་ན། (n<2)
+units 6771-6772 para 19057: བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་བྱ་རྒོད་ཕུང་པོའི་རི་ལ། (n<2)
+units 6773-6774 para 19061: དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། (n<2)
+units 6783-6784 para 19081: དེ་ནས་སངས་རྒྱས་ཀྱི་མཐུས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས། (n<2)
+units 6789-6790 para 19093: དེ་སྐད་ཅེས་སྨྲས་པ་དང༌། (n<2)
+units 6799-6800 para 19113: གཟུགས་ལས་ཀྱང་སྟོང་པ་ཉིད་གཞན་མ་ཡིན། ། (n<2)
+units 6801-6802 para 19117: སྟོང་པ་ཉིད་ལས་ཀྱང་གཟུགས་གཞན་མ་ཡིན་ནོ། ། (n<2)
+units 6803-6804 para 19121: དེ་བཞིན་དུ་ཚོར་བ་དང༌། (n<2)
+units 6807-6808 para 19129: རྣམ་པར་ཤེས་པ་རྣམས་སྟོང་པའོ། ། (n<2)
+units 6818-6819 para 19150: ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་སྟོང་པ་ཉིད་ལ་གཟུགས་མེད། (n<2)
+units 6833-6834 para 19179: མིག་གི་ཁམས་མེད་པ་ནས་ཡིད་ཀྱི་ཁམས་མེད། (n<2)
+units 6835-6836 para 19183: ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་ཀྱི་བར་དུ་ཡང་མེད་དོ། ། (n<2)
+units 6839-6840 para 19191: རྒ་ཤི་ཟད་པའི་བར་དུ་ཡང་མེད་དོ། ། (n<2)
+units 6841-6842 para 19195: དེ་བཞིན་དུ་སྡུག་བསྔལ་བ་དང་། (n<2)
+units 6856-6857 para 19225: དེ་ལྟ་བས་ན་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས། (n<2)
+units 6859-6860 para 19232: མི་མཉམ་པ་དང་མཉམ་པར་བྱེད་པའི་སྔགས། (n<2)
+units 6861-6862 para 19236: སྡུག་བསྔལ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པའི་སྔགས། (n<2)
+units 6863-6864 para 19240: མི་བརྫུན་པས་ན་བདེན་པར་ཤེས་པར་བྱ་སྟེ། (n<2)
+units 6866-6867 para 19245: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས་སྨྲས་པ། (n<2)
+units 6872-6873 para 19256: དེ་ནས་བཅོམ་ལྡན་འདས་ཏིང་ངེ་འཛིན་དེ་ལས་བཞེངས་ཏེ། (n<2)
+units 6882-6883 para 19277: དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱང་རྗེས་སུ་ཡི་རང་ངོ༌། ། (n<2)
+units 6884-6885 para 19281: བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། (n<2)
+units 6886-6887 para 19285: ཚེ་དང་ལྡན་པའི་ཤཱ་ར་དྭ་ཏའི་བུ་དང་། (n<2)
+units 6889-6890 para 19292: ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང༌། ། (n<2)
+units 6896-6897 para 19308: སངས་རྒྱས་ལ་ཕྱག་འཚལ་ལོ། ། (n<2)
+units 6900-6901 para 19316: དགེ་འདུན་ལ་ཕྱག་འཚལ་ལོ། ། (n<2)
+units 6904-6905 para 19324: བདག་གི་བདེན་པའི་ཚིག་འགྲུབ་པར་གྱུར་ཅིག (n<2)
+units 6914-6915 para 19344: རབ་ཏུ་ཞི་བར་གྱུར་ཅིག (n<2)
+units 6916-6917 para 19348: གང་གི་རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་། ། (n<2)
+units 6918-6919 para 19352: འགགས་པ་མེད་པ་སྐྱེ་མེད་པ། ། (n<2)
+units 6920-6921 para 19356: ཆད་པ་མེད་པ་རྟག་མེད་པ། ། (n<2)
+units 6922-6923 para 19360: འོང་བ་མེད་པ་འགྲོ་མེད་པ། ། (n<2)
+units 6924-6925 para 19364: ཐ་དད་དོན་མིན་དོན་གཅིག་མིན། ། (n<2)
+units 6927-6928 para 19369: སྤྲོས་པ་ཉེར་ཞི་ཞི་བསྟན་པ། ། (n<2)
+units 6931-6932 para 19377: བགེགས་རིགས་སྟོང་ཕྲག་བརྒྱད་ཅུ་ཞི་བ་དང་། ། (n<2)
+units 6933-6934 para 19381: མི་མཐུན་གནོད་པའི་རྐྱེན་རྣམས་བྲལ་བ་དང་། ། (n<2)
+units 6935-6936 para 19385: འདོད་པ་གྲུབ་ཅིང་ཕུན་སུམ་ཚོགས་གྱུར་པའི། ། (n<2)
+units 6937-6938 para 19389: བཀྲ་ཤིས་དེས་ཀྱང་དེང་འདིར་བདེ་ལེགས་ཤོག །     །། (n<2)
+units 6950-6951 para 19420: རྡོ་རྗེའི་སྐྱིལ་ཀྲུང་གིས་པད་ཟླའི་གདན་ལ་བཞུགས་པ། (n<2)
+units 6952-6953 para 19426: དེའི་གཙུག་ཏོར་ལས་ཨོཾ་དཀར་པོ་འཕྲོས། (n<2)
+units 6960-6961 para 19450: ཕྱག་གཡས་སྐྱབས་སྦྱིན་གྱི་ཕྱག་རྒྱ་པུས་མོའི་སྟེང་དུ་བ (n<2)
+units 6962-6970 para 19456: དབུ་སྐྲ་ལྕང་ལོ་ནག་པོའི་ཐོར་ཚུགས་སྤྱི་བོར་བཅིངས་ཤིང (cfrac)
+units 6971-6972 para 19483: མི་ཕྱེད་འབར་བའི་མཚན་རྟགས་ཅན། (n<2)
+units 7062-7063 para 19641: དུས་མིན་འཆི་བའི་འཇིགས་པ་བཟློག  ། (n<2)
+units 7076-7077 para 19672: ན་མོ་ཤཱཀྱ་མུ་ན་ཡེ། ། (n<2)
+units 7199-7200 para 19871: ཞི་བ་ཤཱནྟིཾ་ཀུ་རུ་ཡེ་སྭཱཧཱ། (n<2)
+units 7594-7596 para 20588: སྡོང་བུ་ནི་རིའི་རྒྱལ་པོ་རི་རབ་ཙམ་དུ་གྱུར་ཅིག ། (m=0.00)
+units 7597-7598 para 20597: འོད་ཀྱིས་སྲིད་པའི་རྩེ་མོ་མན་ཆད་ནས། (n<2)
+units 7837-7843 para 21280: རྒྱལ་དབང་མངྒ་ལཾ་ཤྲི་ཡི། (m=0.80)
+
+== F. Known non-standard spots ==
+ - Tail stanzas with mixed-case transliteration (paras ~19944-19995, 20108-20132, 20496) and short 'prostrate to X' tab-separated refrains (e.g. para 19552 on) were left in their original layout.
